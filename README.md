@@ -56,6 +56,6 @@ Basic HTML, CSS, and JS project structure
 Vaishnavi
 GitHub: @Vaishnavi10706
 
-## ⭐ Support
+## Support
 
 If you like this project, give it a ⭐ on GitHub!
