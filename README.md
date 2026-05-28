@@ -1,9 +1,9 @@
-# Digital Clock ⏰
+# Digital Clock 
 
 A simple and responsive **Digital Clock** built using **HTML, CSS, and JavaScript**.  
 It displays the current time in real-time and updates automatically every second.
 
-## 🚀 Features
+## Features
 
 - Displays current time
 - Real-time clock update
@@ -12,13 +12,13 @@ It displays the current time in real-time and updates automatically every second
 - Beginner-friendly project
 - No external libraries required
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Digital-Clock/
@@ -29,7 +29,7 @@ Digital-Clock/
 └── README.md
 ```
 
-## 💻 How to Run
+## How to Run
 
 Clone the repository:
 ```
@@ -41,7 +41,7 @@ cd Digital-Clock
 ```
 Open index.html in your browser.
 
-## 📚 What I Learned
+## What I Learned
 
 DOM manipulation using JavaScript
 
@@ -51,7 +51,7 @@ Updating UI dynamically
 
 Basic HTML, CSS, and JS project structure
 
-## 🙋‍♀️ Author
+## Author
 
 Vaishnavi
 GitHub: @Vaishnavi10706
