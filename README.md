@@ -20,7 +20,7 @@ It displays the current time in real-time and updates automatically every second
 
 ## Project Structure
 
-```bash
+```
 Digital-Clock/
 │
 ├── index.html
