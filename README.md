@@ -31,31 +31,31 @@ Digital-Clock/
 
 ## How to Run
 
-Clone the repository:
+1. Clone the repository:
 ```
 git clone https://github.com/Vaishnavi10706/Digital-Clock.git
 ```
-Open the project folder:
+2. Open the project folder:
 ```
 cd Digital-Clock
 ```
-Open index.html in your browser.
+3. Open ```index.html``` in your browser.
 
 ## What I Learned
 
-DOM manipulation using JavaScript
+- DOM manipulation using JavaScript
 
-Working with Date() object
+- Working with Date() object
 
-Updating UI dynamically
+- Updating UI dynamically
 
-Basic HTML, CSS, and JS project structure
+- Basic HTML, CSS, and JS project structure
 
 ## Author
 
 Vaishnavi
 
-GitHub: @Vaishnavi10706
+**GitHub:** @Vaishnavi10706
 
 ## Support
 
