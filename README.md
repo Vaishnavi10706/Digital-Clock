@@ -53,7 +53,7 @@ cd Digital-Clock
 
 ## Author
 
-Vaishnavi
+**Name:** Vaishnavi
 
 **GitHub:** @Vaishnavi10706
 
