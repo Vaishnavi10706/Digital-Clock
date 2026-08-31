@@ -3,6 +3,8 @@
 A simple and responsive **Digital Clock** built using **HTML, CSS, and JavaScript**.  
 It displays the current time in real-time and updates automatically every second.
 
+---
+
 ## Features
 
 - Displays current time
@@ -12,11 +14,15 @@ It displays the current time in real-time and updates automatically every second
 - Beginner-friendly project
 - No external libraries required
 
+---
+
 ## Tech Stack
 
 - HTML
 - CSS
 - JavaScript
+
+---
 
 ## Project Structure
 
@@ -28,6 +34,8 @@ Digital-Clock/
 ├── script.js
 └── README.md
 ```
+
+---
 
 ## How to Run
 
@@ -41,6 +49,8 @@ cd Digital-Clock
 ```
 3. Open ```index.html``` in your browser.
 
+---
+
 ## What I Learned
 
 - DOM manipulation using JavaScript
@@ -51,12 +61,17 @@ cd Digital-Clock
 
 - Basic HTML, CSS, and JS project structure
 
+---
+
 ## Author
 
 **Name:** Vaishnavi
 
 **GitHub:** @Vaishnavi10706
 
+---
 ## Support
 
 If you like this project, give it a ⭐ on GitHub!
+
+---
